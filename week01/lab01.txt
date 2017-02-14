@@ -20,3 +20,5 @@ drwxr-xr-x  2 ratri.ayu StafCS 4096 Feb 14 15:46 week09
 drwxr-xr-x  2 ratri.ayu StafCS 4096 Feb 14 15:47 week10
 drwxr-xr-x  2 ratri.ayu StafCS 4096 Feb 14 15:49 xtra
 /home/fasilkom/mahasiswa/r/ratri.ayu/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 14 Feb 2017 at 16:40:46
