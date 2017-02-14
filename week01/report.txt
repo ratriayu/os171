@@ -1,0 +1,1 @@
+push and pull, clone git repository, intro to git, intro to CLI, intro to scripting
